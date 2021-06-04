@@ -1,5 +1,26 @@
+input:focus{
+    outline: none;
+}
+
 input{
-    position: absolute;
-    top: 40vh;
-    left: 43.5vw;
+    position: relative;
+}
+
+#logo{
+    margin-top: 10vh;
+}
+
+#e{
+    text-align: center;
+}
+
+#searchBar{
+    border-width: 1px;
+    border-radius: 500px;
+    padding-left: 20px;
+    height: 50px;
+    width: 500px;
+    
+    border-color: rgb(211, 211, 211);
+    border-style: solid;
 }
