@@ -2,6 +2,10 @@ input:focus{
     outline: none;
 }
 
+button:focus{
+    outline: none;
+}
+
 input{
     position: relative;
 }
@@ -14,7 +18,16 @@ input{
     text-align: center;
 }
 
-#searchBar{
+
+#google{
+    margin-bottom: 25px;
+}
+
+#yt{
+    margin-bottom: 50px;
+}
+
+.searchBar{
     border-width: 1px;
     border-radius: 500px;
     padding-left: 20px;
@@ -24,3 +37,26 @@ input{
     border-color: rgb(211, 211, 211);
     border-style: solid;
 }
+
+button{
+    border-color: rgb(211, 211, 211);
+    border-style: solid;
+}
+
+#ncert{
+    background-color: #9FE6CF;  
+}
+
+#NCERT{
+    margin-bottom: 25px;
+}
+
+#discord{
+    background-color: #5965F2;
+}
+
+#disc{
+    margin-bottom: 25px;
+}
+
+
