@@ -51,6 +51,7 @@ button{
 .button{
     display: inline-block;
     margin-right: 25px;
+    margin-bottom: 25px;
 }
 
 #ncert{
