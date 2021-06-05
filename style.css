@@ -23,7 +23,8 @@ input{
     margin-bottom: 25px;
 }
 
-#yt{
+
+    #yt{
     margin-bottom: 50px;
 }
 
@@ -43,20 +44,26 @@ button{
     border-style: solid;
 }
 
-#ncert{
-    background-color: #9FE6CF;  
+#button1{
+    text-align: center;
 }
 
-#NCERT{
-    margin-bottom: 25px;
+.button{
+    display: inline-block;
+    margin-right: 25px;
 }
+
+#ncert{
+    background-color: #7EC4CC;  
+    height: 240px;
+    width: 220px;
+}
+
 
 #discord{
     background-color: #5965F2;
+    height: 240px;
+    width: 220px;
+    text-align: bottom;
 }
-
-#disc{
-    margin-bottom: 25px;
-}
-
 
