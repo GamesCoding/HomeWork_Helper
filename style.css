@@ -52,19 +52,31 @@ button{
     display: inline-block;
     margin-right: 25px;
     margin-bottom: 25px;
-}
+    
+    text-align: bottom;
 
-#ncert{
-    background-color: #7EC4CC;  
     height: 240px;
     width: 220px;
 }
+
+#ncert{
+    background-color: #7EC4CC; 
+}    
 
 
 #discord{
     background-color: #5965F2;
-    height: 240px;
-    width: 220px;
-    text-align: bottom;
+}
+
+#quizizz{
+    background-color: rgb(53, 192, 247);
+}
+
+#kahoot{
+    background-color: #8941C4;
+}
+
+#udemy{
+    background-color: rgb(13, 255, 223);
 }
 
