@@ -61,22 +61,27 @@ button{
 
 #ncert{
     background-color: #7EC4CC; 
+    border-radius: 15px;
 }    
 
 
 #discord{
     background-color: #5965F2;
+    border-radius: 15px;
 }
 
 #quizizz{
     background-color: rgb(53, 192, 247);
+    border-radius: 15px;
 }
 
 #kahoot{
     background-color: #8941C4;
+    border-radius: 15px;
 }
 
 #udemy{
     background-color: rgb(13, 255, 223);
+    border-radius: 15px;
 }
 
